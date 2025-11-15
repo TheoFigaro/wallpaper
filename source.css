@@ -58,7 +58,7 @@
   --input-height: 36px;
   --input-radius: calc(var(--input-height) / 2);
   /* CARD SETTINGS */
-  --card-color: hsl(0,0%,0%,0.4);
+  --card-color: #CB6F49;
   --card-color-hover: hsl(0,0%,0%,0.5);
   --card-color-select: hsl(0,0%,0%,0.625);
   --card-radius: var(--app-radius);
