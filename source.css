@@ -205,7 +205,7 @@ body {
   margin-top: 0;
 }
 .titleBar__421ed.typeMacOS__421ed {
-  top: var(--app-margin);
+  top: 0;
   left: var(--app-margin);
 }
 .titleBar__421ed.typeMacOS__421ed .macButtons__421ed {
