@@ -199,21 +199,7 @@ body {
  *
  */
 .titleBar__421ed {
-  height: 0px;
-}
-.titleBar__421ed.withFrame__421ed {
-  margin-top: 0;
-}
-.titleBar__421ed.typeMacOS__421ed {
-  top: 0px;
-  left: var(--app-margin);
-}
-.titleBar__421ed.typeMacOS__421ed .macButtons__421ed {
-  width: 72px;
-  border-top-left-radius: var(--app-radius);
-}
-.titleBar__421ed.typeMacOS__421ed .macButtons__421ed .macButton__421ed {
-  cursor: pointer;
+  display: none !important;
 }
 
 .wordmarkWindows__421ed {
